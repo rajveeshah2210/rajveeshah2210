@@ -47,11 +47,6 @@ Here are some ideas to get you started:
 - ✔️My activities are much beyond my stream of education. I am involved in self-learning to building my personal brand. Apart from this, I love the marketing and stocks field. 
 
 
-## Links
-
-[![GitHub](icons/github.png)](https://github.com/rajveeshah2210)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/rajveeshahm)
-[![Instagram](insta.png)](https://www.instagram.com/rajvee.shah.5817/)
 
 
 
