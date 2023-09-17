@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </p>
-Hi, I'm Rajvee Shah!, a passionate self-taught Full Web Developer 🚀 from India.
+Hi, I'm Rajvee Shah! a Learner-Developer-Designer having good grip on <b>Javasript [ Pure Javascript + ReactJS] - CSS - HTML - MYSQL </b>. I am currently working as a security developer in a growing startup located in Ahmedabad. Parallely I am developing my hands on the MERN by creating projects in thie technoloy.
 <p>
 
 <!--
@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 Hello, Geeks! I'm * web Devlopere*
-- ⚙️ I use daily: `.js`,`.html`, `.css`, 
+- 🏢 Hello, Geeks! I'm Security Software Developer at Sharkstriker
+- ⚙️ I use daily: `.js`,`.html`, `.css`, `Reactjs`, 
 - 🌍 I'm mostly active in *Linkedin* and *Github*
-- 🌱 Exploring *Web*
-- 🌱 Currently Learning all about *Open Source*
-- ⚡ Belive in life has no CTRL + Z
+- 🌱 Exploring Full Stack Development
+- 🌱 Currently about the cybersecurity
+- ⚡ Belive chat GPT can't replace web developers ...
 
 ## ⚡ Technologies
 
@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 
 ### 🌱 What do I do?
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Web as a developer. I am awaiting a job with a chance to build up my career and skills. I am looking for growth. Currently, I am looking for internships and Freelance projects in the field of Web Devlopment.
-
+- ✔️I am currently working as a Cyber Security Developer, where I work on various technology such as JS, ReactJs, HTML, CSS[ for front-end] , PHP, Python, Node [ for back-end].
 - ✔️My activities are much beyond my stream of education. I am involved in self-learning to building my personal brand. Apart from this, I love the marketing and stocks field. 
 
 
